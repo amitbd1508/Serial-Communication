@@ -1,4 +1,4 @@
-# Serial Communication Uisng C# Winform application (Send and Recieve data using comport)
+# Serial Communication Using C# Winform application (Send and Receive data using comport)
 
 # Screenshot
 
